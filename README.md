@@ -2,7 +2,7 @@
 
 We're all tic-tac-toe experts now, right? Good, because it's time to modify and enhance the app we wrote together.
 
-If you didn't go through the Tic-Tac-Toe Walkthrough, go and do that now! It's important you understand the steps we took to build the original app. Sure, you might be able to get away with skipping some steps for this problem set, but I promise you'll be hopelessly lost in Problem Set 9.
+If you didn't go through the [Tic-Tac-Toe Walkthrough](https://github.com/ap-principles-ucvts/tic-tac-toe/blob/master/README.md), go and do that now! It's important you understand the steps we took to build the original app. Sure, you might be able to get away with skipping some steps for this problem set, but I promise you'll be hopelessly lost on [Problem Set 9](https://github.com/ap-principles-ucvts/pset-9-skeleton/blob/master/README.md).
 
 ## Getting Started
 
