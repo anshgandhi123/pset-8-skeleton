@@ -17,7 +17,7 @@ To get started, create a [GitHub](https://github.com/) repository to store your 
 $ cd ~/Desktop/APCSP
 ```
 
-1. Clone your `tic-tac-toe` repository into a directory named `pset-8`. Replace `YOUR-USERNAME` with your actual username. If you didn't push your original `tic-tac-toe` repository up to GitHub, just copy the folder as needed.
+3. Clone your `tic-tac-toe` repository into a directory named `pset-8`. This, of course, assumes you followed along with the walkthrough and pushed your code up to GitHub.
 
 ```
 $ git clone git@github.com:YOUR-USERNAME/tic-tac-toe.git pset-8
